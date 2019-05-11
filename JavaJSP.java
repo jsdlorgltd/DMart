@@ -1,0 +1,1 @@
+screen details1
